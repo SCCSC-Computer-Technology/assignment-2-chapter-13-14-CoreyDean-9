@@ -1,0 +1,6 @@
+Code Review for Corey
+
+
+I was not able to run the program because of a 'downgrade' path, so I could not test the functionalities of the form and buttons, but I was able to look and review the Form1.cs and I would say it is organized and I liked how he put the controls group boxes to help users visualize what text box and buttons are for what searches and filters. In the back end of his code, I noticed his use of try-catches and I would note on using a more informative message to help prevent the user from making the same mistake, for example changing 'Error!' to 'Requires a string input' or 'Requires an integer input'.
+
+His code is well documented and is readable, his use of comments allows team members or reviewers to understand what process he wanted to complete. I noticed the use of LINQ queries, and I would sugguest creating a method or factoring out repitive code to reduce redundancy. Overall, the code was well structured and easy to follow, his logic for each was click handler was clear and executable.

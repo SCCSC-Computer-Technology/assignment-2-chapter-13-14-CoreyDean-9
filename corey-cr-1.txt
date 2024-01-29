@@ -1,0 +1,13 @@
+Positive Feed Back
+-Your code includes comments that explain the purpose of different sections, 
+which is helpful for anyone reading or maintaining the code.
+-well organized
+-solid understanding of linq
+
+Overall feedback
+
+There are just a few changes i would implement to make the program morw user friendly.
+- Write code to populate partial matches when searching for product #
+-Avoid shorthand such as qty from the user end to avoid confusion
+-You've included try-catch blocks to handle potential errors, which is a good practice for robustness.
+However, it would be helpful to provide more specific error messages or log information for debugging.

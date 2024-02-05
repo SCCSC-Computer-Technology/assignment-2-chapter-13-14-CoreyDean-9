@@ -1,0 +1,35 @@
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.exe
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\bin\Debug\ProductDB.mdf
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\bin\Debug\ProductDB_log.ldf
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.exe.config
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.AssemblyReference.cache
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins_CPT_236_Lab_1.Form1.resources
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins_CPT_236_Lab_1.Properties.Resources.resources
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.GenerateResource.cache
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.CoreCompileInputs.cache
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.exe
+C:\Users\Corey\OneDrive\Desktop\CPT 185 C#\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.pdb
+C:\CoreyCollins-CPT-236-Lab-1\bin\Debug\ProductDB.mdf
+C:\CoreyCollins-CPT-236-Lab-1\bin\Debug\ProductDB_log.ldf
+C:\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.exe.config
+C:\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.exe
+C:\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.pdb
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.AssemblyReference.cache
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins_CPT_236_Lab_1.Form1.resources
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins_CPT_236_Lab_1.Properties.Resources.resources
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.GenerateResource.cache
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.CoreCompileInputs.cache
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.exe
+C:\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.pdb
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\bin\Debug\ProductDB.mdf
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\bin\Debug\ProductDB_log.ldf
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.exe.config
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.exe
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\bin\Debug\CoreyCollins-CPT-236-Lab-1.pdb
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.AssemblyReference.cache
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins_CPT_236_Lab_1.Form1.resources
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins_CPT_236_Lab_1.Properties.Resources.resources
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.GenerateResource.cache
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.csproj.CoreCompileInputs.cache
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.exe
+C:\Users\amfos\OneDrive\Desktop\Corey Dean Lab 1\CoreyCollins-CPT-236-Lab-1\obj\Debug\CoreyCollins-CPT-236-Lab-1.pdb
